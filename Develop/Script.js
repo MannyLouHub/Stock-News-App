@@ -50,7 +50,7 @@ let currentData
 
 // API Key
 //Prod
-const apiKey = 'pk_7f795028e20d4cf2b689fb66874abd4f'
+const apiKey = 'pk_276cb13cadb0417e9b05f84bdc3892e0'
 // Sandbox
 // const apiKey = 'Tsk_45ffeac63611476c81c288bde56d0f59'
 //BarChart Key
